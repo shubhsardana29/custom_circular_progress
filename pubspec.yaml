@@ -2,6 +2,7 @@ name: custom_circular_progress
 description: "A customizable circular progress indicator with dashed unfilled portion and animation support."
 version: 0.0.1
 homepage: https://github.com/shubhsardana29/custom_circular_progress
+license: MIT
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
