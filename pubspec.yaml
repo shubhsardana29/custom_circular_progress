@@ -1,4 +1,4 @@
-name: custom_circular_progress
+name: custom_circular_progress_indicated
 description: "A customizable circular progress indicator with dashed unfilled portion and animation support."
 version: 0.0.1
 homepage: https://github.com/shubhsardana29/custom_circular_progress
